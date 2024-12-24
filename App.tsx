@@ -225,7 +225,7 @@ const styles = StyleSheet.create({
   },
   heading: {
     fontSize: 15,
-    color: 'white'
+    // color: 'white'
   },
   inputWrapper: {
     marginBottom: 15,
